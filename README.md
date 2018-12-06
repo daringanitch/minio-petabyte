@@ -1,5 +1,5 @@
 # minio-petabyte
-Minio petabyte deployment for kubernetes, tested on v 1.10.11. this distributed deployment
+Minio petabyte deployment for kubernetes, tested on v 1.10.11. this is a distributed deployment stategy.
 
 32 pods with 4 drives each. Each drive 16 Tb.
 
